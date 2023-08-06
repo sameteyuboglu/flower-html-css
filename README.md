@@ -1,4 +1,4 @@
-# flower-html-css
+# Responsive Flowers
 
 ## What I Practice
 - Design using only html and css
